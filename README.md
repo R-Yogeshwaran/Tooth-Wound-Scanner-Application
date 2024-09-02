@@ -20,5 +20,7 @@ Machine Learning: Utilizes a pre-trained model to analyze wound images and class
 
 Scanner Integration: Integrates with the device's camera to capture high-quality images for analysis.
 
+
+
 ![image](https://github.com/user-attachments/assets/6eac2c28-ae16-4a37-9306-f66f4b28ee04)
 
